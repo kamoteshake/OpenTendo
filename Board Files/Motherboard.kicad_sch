@@ -13335,7 +13335,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -12.7 -8.89 0)
 					(length 2.54)
 					(name "EXT0"
@@ -13353,7 +13353,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -12.7 -11.43 0)
 					(length 2.54)
 					(name "EXT1"
@@ -13371,7 +13371,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -12.7 -13.97 0)
 					(length 2.54)
 					(name "EXT2"
@@ -13389,7 +13389,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at -12.7 -16.51 0)
 					(length 2.54)
 					(name "EXT3"
@@ -27073,7 +27073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-40_W15.24mm"
+		(property "Footprint" "Package_DIP:DIP-40_W25.4mm"
 			(at 251.46 139.7 0)
 			(effects
 				(font
