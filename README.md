@@ -1,6 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/Herring%20Hardware-5865F2?style=for-the-badge&logo=discord&logoColor=%23fff&label=Discord)](https://discord.gg/XFrcBYFdBN)
-![Static Badge](https://img.shields.io/badge/KiCad-v8-2547ca?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Revision-v1.4-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/KiCad-v9-2547ca?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Revision-v1.5-brightgreen?style=for-the-badge)
 
 <br />
 
