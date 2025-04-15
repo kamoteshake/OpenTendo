@@ -28372,7 +28372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NESRE:TrimmerCap-THT"
+		(property "Footprint" "NESRE:Trimmer_Cap_THT_5_5"
 			(at 66.04 191.77 0)
 			(effects
 				(font
