@@ -1,0 +1,162 @@
+(footprint "Trimmer_Cap_THT_5_5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 5.08 0)
+		(layer "F.SilkS")
+		(uuid "f597aec4-c9db-4947-a5de-7000570b9e0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Trimmer_Cap_THT_5_5"
+		(at 0 -0.5 0)
+		(layer "F.Fab")
+		(uuid "6473efbd-b52a-43b8-8c70-932849edbfb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23d3dc6c-57e8-446c-a5da-065b68e4f72b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8e2acfb-3bd4-4324-a619-e2c90772da70")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.27 0)
+		(end 2.54 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c002a44a-0be1-4359-b3f7-5547781b66a2")
+	)
+	(fp_line
+		(start 1.778 0.762)
+		(end 4.064 -1.143)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7f8de5e-5463-427c-80c0-f6b25e8fa19d")
+	)
+	(fp_line
+		(start 2.54 -0.635)
+		(end 2.54 0.635)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "059695e2-486c-4ae5-b41b-f012e9e6ff34")
+	)
+	(fp_line
+		(start 3.175 -0.635)
+		(end 3.175 0.635)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3347afe6-5247-423d-bd5d-c65946c97492")
+	)
+	(fp_line
+		(start 3.175 0)
+		(end 4.445 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b04f11d4-3f67-43e4-a2f0-a4a682d0eb30")
+	)
+	(fp_line
+		(start 3.175 0.635)
+		(end 3.175 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8002b2c-e31f-41c6-ba75-a169d5c4d4e6")
+	)
+	(fp_line
+		(start 3.683 -1.524)
+		(end 4.445 -0.762)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b46227d8-58e1-41e0-886f-093432548b10")
+	)
+	(fp_circle
+		(center 2.75 0)
+		(end 5.95 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c7c804d1-112c-4330-8434-8ec53fc3086c")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c5151176-2ad0-461b-9f8b-8d17be07dc8e")
+	)
+	(pad "2" thru_hole circle
+		(at 5.5 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "48dde3de-2784-4dbb-90ae-b74e418b37b7")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libraries/Trimmer Cap - Green.stp"
+		(offset
+			(xyz 2.6 0 0)
+		)
+		(scale
+			(xyz 1 0.95 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
