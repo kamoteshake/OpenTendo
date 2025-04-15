@@ -60,12 +60,40 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|126229820|46071001|00000000-0000-0000-0000-00005d972483|00000000-0000-0000-0000-00005d9724e8",
+          "courtyards_overlap|125461277|46076000|00000000-0000-0000-0000-00005d972483|00000000-0000-0000-0000-00005d9724e8",
           ""
         ],
         [
-          "hole_near_hole|126451160|47571000|f51f3d49-209f-4e71-81f1-7ff44664a159|9c05becd-7995-4252-855e-b30374acf7a3",
+          "hole_to_hole|126450000|47575000|9c05becd-7995-4252-855e-b30374acf7a3|f51f3d49-209f-4e71-81f1-7ff44664a159",
           ""
+        ],
+        [
+          "lib_footprint_mismatch|145606000|99773000|00000000-0000-0000-0000-00005d97255e|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|158301000|80455000|00000000-0000-0000-0000-00005d9725ea|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|176690000|46270000|00000000-0000-0000-0000-00005d97264a|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|176690000|59170000|00000000-0000-0000-0000-00005d97266e|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|180590000|104770000|00000000-0000-0000-0000-00005d9726b4|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|202520000|49925000|00000000-0000-0000-0000-00005d972233|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
+        ],
+        [
+          "lib_footprint_mismatch|82131000|93270000|00000000-0000-0000-0000-00005d972626|00000000-0000-0000-0000-000000000000",
+          "Updated spoke angle"
         ],
         [
           "via_dangling|84850000|131875000|2e2feecc-1671-46e3-891a-af0abb3a314b|00000000-0000-0000-0000-000000000000",
@@ -119,9 +147,9 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
