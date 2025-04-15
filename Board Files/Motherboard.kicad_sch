@@ -7923,7 +7923,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at -10.16 3.81 0)
 					(length 2.54)
 					(name "~{1Y}"
@@ -7959,7 +7959,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at -10.16 -1.27 0)
 					(length 2.54)
 					(name "~{2Y}"
@@ -7995,7 +7995,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at -10.16 -6.35 0)
 					(length 2.54)
 					(name "~{3Y}"
@@ -8085,7 +8085,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at 10.16 1.27 180)
 					(length 2.54)
 					(name "~{6Y}"
@@ -8121,7 +8121,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at 10.16 -3.81 180)
 					(length 2.54)
 					(name "~{5Y}"
@@ -8157,7 +8157,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin bidirectional line
 					(at 10.16 -8.89 180)
 					(length 2.54)
 					(name "~{4Y}"
@@ -33407,7 +33407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm"
 			(at 189.23 19.05 0)
 			(effects
 				(font
@@ -33995,7 +33995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm"
 			(at 187.96 48.26 0)
 			(effects
 				(font
